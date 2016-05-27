@@ -1,2 +1,2 @@
 # Notes-on-code
-My nodes of language learning
+My learning nodes of programming 
